@@ -1,0 +1,22 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "author": [
+        {
+            "affiliation": {
+                "name": "UPM",
+                "@type": "Organization"
+            },
+            "email": "rodrigo.pvigil@alumnos.upm.es",
+            "familyName": "Peña Vigil",
+            "givenName": "Rodrigo",
+            "@type": "Person"
+        }
+    ],
+    "dateCreated": "2026-03-03",
+    "description": "Data analysis following the guidelines of the Scientific Paper of the Future",
+    "license": "https://spdx.org/licenses/Apache-2.0",
+    "name": "Data-science-seminars-Seminar3",
+    "programmingLanguage": "Python",
+    "developmentStatus": "active",
+    "@type": "SoftwareSourceCode"
+}
