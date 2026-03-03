@@ -17,4 +17,4 @@ The provenance diagram (`diagrama_prov.png`) represents the research lifecycle o
 
 ## 3. Cite this work
 Peña Vigil, Rodrigo. (2026). Data-science-seminars-Seminar3 (v1.0.2). GitHub. 
-**DOI:** [PENDING]
+**DOI:** [10.5281/zenodo.18850027](https://zenodo.org/records/18850027)
